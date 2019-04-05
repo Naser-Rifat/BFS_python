@@ -44,7 +44,7 @@ if suru not in graph:
     
 ses = input("\n\nEnding Point:  ")
 if ses not in graph:
-    print(ses+"does not exist\n\nEnding Point Point:  ");
+    print(ses+" does not exist\n\nEnding Point Point:  ");
     ses = input()
 
 """//'Arad','Pagaras'//"""
